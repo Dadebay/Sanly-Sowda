@@ -1,0 +1,1681 @@
+{
+    "locations": [
+        {
+          "id": 5,
+          "name": {
+            "en": "Turkmenistan",
+            "ru": "Туркменистан",
+            "tm": "Türkmenistan"
+          },
+          "lft": 1,
+          "rght": 258,
+          "tree_id": 7,
+          "level": 0,
+          "parent": 0
+        },
+        {
+          "id": 1495,
+          "name": {
+            "en": "",
+            "ru": "Ашхабад",
+            "tm": "Aşgabat"
+          },
+          "lft": 2,
+          "rght": 133,
+          "tree_id": 7,
+          "level": 1,
+          "parent": 5
+        },
+        {
+          "id": 2497626252,
+          "name": {
+            "en": "",
+            "ru": "Арзув",
+            "tm": "Arzuw"
+          },
+          "lft": 3,
+          "rght": 4,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626253,
+          "name": {
+            "en": "",
+            "ru": "Улица Ататурка",
+            "tm": "Atatürk köç."
+          },
+          "lft": 5,
+          "rght": 6,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626254,
+          "name": {
+            "en": "",
+            "ru": "\"Алтын Асыр\" Гундогар базары ( Толкучка)",
+            "tm": "\"Altyn Asyr\" Gündogar bazary (Jygyllyk)"
+          },
+          "lft": 7,
+          "rght": 8,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626255,
+          "name": {
+            "en": "",
+            "ru": "Арчабиль шаёлы",
+            "tm": "Arçabil şaýoly"
+          },
+          "lft": 9,
+          "rght": 10,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626256,
+          "name": {
+            "en": "",
+            "ru": "Багир",
+            "tm": "Bagyr"
+          },
+          "lft": 11,
+          "rght": 12,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626257,
+          "name": {
+            "en": "",
+            "ru": "Берзенги",
+            "tm": "Berzeňňi"
+          },
+          "lft": 13,
+          "rght": 14,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626258,
+          "name": {
+            "en": "",
+            "ru": "Бекреве",
+            "tm": "Bekrewe"
+          },
+          "lft": 15,
+          "rght": 16,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626259,
+          "name": {
+            "en": "",
+            "ru": "Бедев",
+            "tm": "Bedew"
+          },
+          "lft": 17,
+          "rght": 18,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626260,
+          "name": {
+            "en": "",
+            "ru": "ул. Подвойского (Битарап Туркменистан шаёлы)",
+            "tm": "Podwoýski köç. (Bitarap Türkmenistan şaýoly)"
+          },
+          "lft": 19,
+          "rght": 20,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626261,
+          "name": {
+            "en": "",
+            "ru": "Бузмеин",
+            "tm": "Büzmeýin"
+          },
+          "lft": 21,
+          "rght": 22,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626262,
+          "name": {
+            "en": "",
+            "ru": "Бузмеин ГРЭС",
+            "tm": "Büzmeýin GRES"
+          },
+          "lft": 23,
+          "rght": 24,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626263,
+          "name": {
+            "en": "",
+            "ru": "Чандыбиль шаёлы",
+            "tm": "Çandybil şaýoly"
+          },
+          "lft": 25,
+          "rght": 26,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626264,
+          "name": {
+            "en": "",
+            "ru": "ВДНХ торговый центр",
+            "tm": "WDNH Söwda Merkezi"
+          },
+          "lft": 27,
+          "rght": 28,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626265,
+          "name": {
+            "en": "",
+            "ru": "1 мкр",
+            "tm": "1 mkr"
+          },
+          "lft": 29,
+          "rght": 30,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626266,
+          "name": {
+            "en": "",
+            "ru": "2 мкр",
+            "tm": "2 mkr"
+          },
+          "lft": 31,
+          "rght": 32,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626267,
+          "name": {
+            "en": "",
+            "ru": "3 мкр",
+            "tm": "3 mkr"
+          },
+          "lft": 33,
+          "rght": 34,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626268,
+          "name": {
+            "en": "",
+            "ru": "4 мкр",
+            "tm": "4 mkr"
+          },
+          "lft": 35,
+          "rght": 36,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626269,
+          "name": {
+            "en": "",
+            "ru": "6 мкр",
+            "tm": "6 mkr"
+          },
+          "lft": 37,
+          "rght": 38,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626270,
+          "name": {
+            "en": "",
+            "ru": "5 мкр",
+            "tm": "5 mkr"
+          },
+          "lft": 39,
+          "rght": 40,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626271,
+          "name": {
+            "en": "",
+            "ru": "8 мкр",
+            "tm": "8 mkr"
+          },
+          "lft": 41,
+          "rght": 42,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626272,
+          "name": {
+            "en": "",
+            "ru": "9 мкр",
+            "tm": "9 mkr"
+          },
+          "lft": 43,
+          "rght": 44,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626273,
+          "name": {
+            "en": "",
+            "ru": "10 мкр",
+            "tm": "10 mkr"
+          },
+          "lft": 45,
+          "rght": 46,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626274,
+          "name": {
+            "en": "",
+            "ru": "11 мкр",
+            "tm": "11 mkr"
+          },
+          "lft": 47,
+          "rght": 48,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626275,
+          "name": {
+            "en": "",
+            "ru": "30 мкр",
+            "tm": "30 mkr"
+          },
+          "lft": 49,
+          "rght": 50,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626276,
+          "name": {
+            "en": "",
+            "ru": "Гаудан \"А\"",
+            "tm": "Howdan \"A\""
+          },
+          "lft": 51,
+          "rght": 52,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626277,
+          "name": {
+            "en": "",
+            "ru": "Гаудан \"Б\"",
+            "tm": "Howdan \"B\""
+          },
+          "lft": 53,
+          "rght": 54,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626278,
+          "name": {
+            "en": "",
+            "ru": "Гаудан \"В\"",
+            "tm": "Howdan \"W\""
+          },
+          "lft": 55,
+          "rght": 56,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626279,
+          "name": {
+            "en": "",
+            "ru": "ул. Туркменбаши шаёлы (Ленина)",
+            "tm": "Türkmenbaşy şaýoly"
+          },
+          "lft": 57,
+          "rght": 58,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626280,
+          "name": {
+            "en": "",
+            "ru": "Айтакова (ул. Огузхана)",
+            "tm": "Aýtakow (Oguzhan köç.)"
+          },
+          "lft": 59,
+          "rght": 60,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626281,
+          "name": {
+            "en": "",
+            "ru": "14 этап - Элитки (Улица Совхозная)",
+            "tm": "14-nji tapgyr (Sowhozny köç)"
+          },
+          "lft": 61,
+          "rght": 62,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626282,
+          "name": {
+            "en": "",
+            "ru": "15-й этап",
+            "tm": "15-nji tapgyr"
+          },
+          "lft": 63,
+          "rght": 64,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626283,
+          "name": {
+            "en": "",
+            "ru": "ул. Московская (10 йыл абаданчылык ш.)",
+            "tm": "Moskowskiý köç. (10 ýyl abadançylyk şaýoly)"
+          },
+          "lft": 65,
+          "rght": 66,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626284,
+          "name": {
+            "en": "",
+            "ru": "Нефтегаз (ул. Андалиб-Юбилейная)",
+            "tm": "Nebitgaz (Andalib-Ankara köç.)"
+          },
+          "lft": 67,
+          "rght": 68,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626285,
+          "name": {
+            "en": "",
+            "ru": "Олимпийский городок",
+            "tm": "Olimpiýa şäherçesi"
+          },
+          "lft": 69,
+          "rght": 70,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626286,
+          "name": {
+            "en": "",
+            "ru": "ул. Советская (Гарашсызлык шаёлы)",
+            "tm": "Sowetskiý köç. (Garaşsyzlyk şaýoly)"
+          },
+          "lft": 71,
+          "rght": 72,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626287,
+          "name": {
+            "en": "",
+            "ru": "Гарадамак",
+            "tm": "Garadamak"
+          },
+          "lft": 73,
+          "rght": 74,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626288,
+          "name": {
+            "en": "",
+            "ru": "Гарадамак Шор",
+            "tm": "Garadamak Şor"
+          },
+          "lft": 75,
+          "rght": 76,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626289,
+          "name": {
+            "en": "",
+            "ru": "Гёкдже",
+            "tm": "Gökje"
+          },
+          "lft": 77,
+          "rght": 78,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626290,
+          "name": {
+            "en": "",
+            "ru": "Улица Г. Кулиева (Объездная)",
+            "tm": "G.Kuliýew köç. (Obýezdnoý)"
+          },
+          "lft": 79,
+          "rght": 80,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626291,
+          "name": {
+            "en": "",
+            "ru": "Гуртли",
+            "tm": "Gurtly"
+          },
+          "lft": 81,
+          "rght": 82,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626292,
+          "name": {
+            "en": "",
+            "ru": "Досааф",
+            "tm": "Dosaaf"
+          },
+          "lft": 83,
+          "rght": 84,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626293,
+          "name": {
+            "en": "",
+            "ru": "Ким район",
+            "tm": "Kim raýon"
+          },
+          "lft": 85,
+          "rght": 86,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626294,
+          "name": {
+            "en": "",
+            "ru": "Кёпетдаг шаёлы",
+            "tm": "Köpetdag şaýoly"
+          },
+          "lft": 87,
+          "rght": 88,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626295,
+          "name": {
+            "en": "",
+            "ru": "Кëши",
+            "tm": "Köşi"
+          },
+          "lft": 89,
+          "rght": 90,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626296,
+          "name": {
+            "en": "",
+            "ru": "Мир 1",
+            "tm": "Parahat 1"
+          },
+          "lft": 91,
+          "rght": 92,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626297,
+          "name": {
+            "en": "",
+            "ru": "Мир 2",
+            "tm": "Parahat 2"
+          },
+          "lft": 93,
+          "rght": 94,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626299,
+          "name": {
+            "en": "",
+            "ru": "Мир 3",
+            "tm": "Parahat 3"
+          },
+          "lft": 95,
+          "rght": 96,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626300,
+          "name": {
+            "en": "",
+            "ru": "Мир 4",
+            "tm": "Parahat 4"
+          },
+          "lft": 97,
+          "rght": 98,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626301,
+          "name": {
+            "en": "",
+            "ru": "Мир 6",
+            "tm": "Parahat 6"
+          },
+          "lft": 99,
+          "rght": 100,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626303,
+          "name": {
+            "en": "",
+            "ru": "Мир 5",
+            "tm": "Parahat 5"
+          },
+          "lft": 101,
+          "rght": 102,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626304,
+          "name": {
+            "en": "",
+            "ru": "Мир 7",
+            "tm": "Parahat 7"
+          },
+          "lft": 103,
+          "rght": 104,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626305,
+          "name": {
+            "en": "",
+            "ru": "Мир 8",
+            "tm": "Parahat 8"
+          },
+          "lft": 105,
+          "rght": 106,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626306,
+          "name": {
+            "en": "",
+            "ru": "Район ст. Аэропорта, ул. Гагарина",
+            "tm": "Gagarin köç, köne Howa menzili"
+          },
+          "lft": 107,
+          "rght": 108,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626307,
+          "name": {
+            "en": "",
+            "ru": "Кипджак",
+            "tm": "Gypjak"
+          },
+          "lft": 109,
+          "rght": 110,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626308,
+          "name": {
+            "en": "",
+            "ru": "Рухабат (90-й разьезд)",
+            "tm": "Ruhabat (90-njy razýezd)"
+          },
+          "lft": 111,
+          "rght": 112,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626309,
+          "name": {
+            "en": "",
+            "ru": "Тязе заман",
+            "tm": "Täze zaman"
+          },
+          "lft": 113,
+          "rght": 114,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626310,
+          "name": {
+            "en": "",
+            "ru": "ТРЦ \"Беркарар\"",
+            "tm": "\"Berkarar\" SDAM"
+          },
+          "lft": 115,
+          "rght": 116,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626311,
+          "name": {
+            "en": "",
+            "ru": "Торговый центр \"15 лет Независимости\"",
+            "tm": "Garaşsyzlygyň 15 ýyllygy Söwda Merkezi"
+          },
+          "lft": 117,
+          "rght": 118,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626312,
+          "name": {
+            "en": "",
+            "ru": "Чоганлы",
+            "tm": "Çoganly"
+          },
+          "lft": 119,
+          "rght": 120,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626313,
+          "name": {
+            "en": "",
+            "ru": "Хитровка",
+            "tm": "Hitrowka"
+          },
+          "lft": 121,
+          "rght": 122,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626314,
+          "name": {
+            "en": "",
+            "ru": "Херрикгала",
+            "tm": "Herrikgala"
+          },
+          "lft": 123,
+          "rght": 124,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626315,
+          "name": {
+            "en": "",
+            "ru": "Шор дача",
+            "tm": "Şor daça"
+          },
+          "lft": 125,
+          "rght": 126,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626316,
+          "name": {
+            "en": "",
+            "ru": "Ялкым",
+            "tm": "Ýalkym"
+          },
+          "lft": 127,
+          "rght": 128,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2497626317,
+          "name": {
+            "en": "",
+            "ru": "Янбаш",
+            "tm": "Ýanbaş"
+          },
+          "lft": 129,
+          "rght": 130,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 2868820848,
+          "name": {
+            "en": "",
+            "ru": "16-й этап",
+            "tm": "16-njy tapgyr"
+          },
+          "lft": 131,
+          "rght": 132,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1495
+        },
+        {
+          "id": 45740,
+          "name": {
+            "en": "",
+            "ru": "Ахалский велаят",
+            "tm": "Ahal welaýaty"
+          },
+          "lft": 134,
+          "rght": 153,
+          "tree_id": 7,
+          "level": 1,
+          "parent": 5
+        },
+        {
+          "id": 2043162771,
+          "name": {
+            "en": "",
+            "ru": "Яшлык",
+            "tm": "Ýaşlyk"
+          },
+          "lft": 135,
+          "rght": 136,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 45740
+        },
+        {
+          "id": 2043161933,
+          "name": {
+            "en": "",
+            "ru": "Ак-Бугдайский этрап",
+            "tm": "Ak bugdaý etraby"
+          },
+          "lft": 137,
+          "rght": 138,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 45740
+        },
+        {
+          "id": 1446386427,
+          "name": {
+            "en": "",
+            "ru": "Бахарден",
+            "tm": "Bäherden"
+          },
+          "lft": 139,
+          "rght": 140,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 45740
+        },
+        {
+          "id": 1446386551,
+          "name": {
+            "en": "",
+            "ru": "Бабадайхан",
+            "tm": "Babadaýhan"
+          },
+          "lft": 141,
+          "rght": 142,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 45740
+        },
+        {
+          "id": 1446386666,
+          "name": {
+            "en": "",
+            "ru": "Гёкдепе",
+            "tm": "Gökdepe"
+          },
+          "lft": 143,
+          "rght": 144,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 45740
+        },
+        {
+          "id": 1446386755,
+          "name": {
+            "en": "",
+            "ru": "Кака",
+            "tm": "Kaka"
+          },
+          "lft": 145,
+          "rght": 146,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 45740
+        },
+        {
+          "id": 57168,
+          "name": {
+            "en": "",
+            "ru": "Анев",
+            "tm": "Änew"
+          },
+          "lft": 147,
+          "rght": 148,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 45740
+        },
+        {
+          "id": 57169,
+          "name": {
+            "en": "",
+            "ru": "Теджен",
+            "tm": "Tejen"
+          },
+          "lft": 149,
+          "rght": 150,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 45740
+        },
+        {
+          "id": 1449130625,
+          "name": {
+            "en": "",
+            "ru": "Серахс",
+            "tm": "Sarahs"
+          },
+          "lft": 151,
+          "rght": 152,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 45740
+        },
+        {
+          "id": 1446387274,
+          "name": {
+            "en": "",
+            "ru": "Балканский велаят",
+            "tm": "Balkan welaýaty"
+          },
+          "lft": 154,
+          "rght": 177,
+          "tree_id": 7,
+          "level": 1,
+          "parent": 5
+        },
+        {
+          "id": 1446386247,
+          "name": {
+            "en": "",
+            "ru": "Махтумкули",
+            "tm": "Magtymguly"
+          },
+          "lft": 155,
+          "rght": 156,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1446387515,
+          "name": {
+            "en": "",
+            "ru": "Берекет",
+            "tm": "Bereket"
+          },
+          "lft": 157,
+          "rght": 158,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1446387568,
+          "name": {
+            "en": "",
+            "ru": "Этрек",
+            "tm": "Etrek"
+          },
+          "lft": 159,
+          "rght": 160,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1446387623,
+          "name": {
+            "en": "",
+            "ru": "Эсенгулы",
+            "tm": "Esenguly"
+          },
+          "lft": 161,
+          "rght": 162,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1446387759,
+          "name": {
+            "en": "",
+            "ru": "Гумдаг",
+            "tm": "Gumdag"
+          },
+          "lft": 163,
+          "rght": 164,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1499,
+          "name": {
+            "en": "",
+            "ru": "Балканабат",
+            "tm": "Balkanabat"
+          },
+          "lft": 165,
+          "rght": 166,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1446387833,
+          "name": {
+            "en": "",
+            "ru": "Карабогаз",
+            "tm": "Garabogaz"
+          },
+          "lft": 167,
+          "rght": 168,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1446387893,
+          "name": {
+            "en": "",
+            "ru": "Хазар",
+            "tm": "Hazar"
+          },
+          "lft": 169,
+          "rght": 170,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1446388072,
+          "name": {
+            "en": "",
+            "ru": "Гызыларбат",
+            "tm": "Gyzylarbat"
+          },
+          "lft": 171,
+          "rght": 172,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1500,
+          "name": {
+            "en": "",
+            "ru": "Туркменбаши",
+            "tm": "Türkmenbaşy"
+          },
+          "lft": 173,
+          "rght": 174,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1449135553,
+          "name": {
+            "en": "",
+            "ru": "Джебел",
+            "tm": "Jebel"
+          },
+          "lft": 175,
+          "rght": 176,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446387274
+        },
+        {
+          "id": 1445801702,
+          "name": {
+            "en": "",
+            "ru": "Марыйский велаят",
+            "tm": "Mary welaýaty"
+          },
+          "lft": 178,
+          "rght": 203,
+          "tree_id": 7,
+          "level": 1,
+          "parent": 5
+        },
+        {
+          "id": 1445212673,
+          "name": {
+            "en": "",
+            "ru": "Ёлётен",
+            "tm": "Ýolöten"
+          },
+          "lft": 179,
+          "rght": 180,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1445802103,
+          "name": {
+            "en": "",
+            "ru": "Мургап",
+            "tm": "Murgap"
+          },
+          "lft": 181,
+          "rght": 182,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1496,
+          "name": {
+            "en": "",
+            "ru": "Мары",
+            "tm": "Mary"
+          },
+          "lft": 183,
+          "rght": 184,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1445802195,
+          "name": {
+            "en": "",
+            "ru": "Сакарчага",
+            "tm": "Sakarçäge"
+          },
+          "lft": 185,
+          "rght": 186,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1445802370,
+          "name": {
+            "en": "",
+            "ru": "Серхетабат (Кушка)",
+            "tm": "Serhetabat (Guşgy)"
+          },
+          "lft": 187,
+          "rght": 188,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1445802444,
+          "name": {
+            "en": "",
+            "ru": "Тагтабазар",
+            "tm": "Tagtabazar"
+          },
+          "lft": 189,
+          "rght": 190,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1445802530,
+          "name": {
+            "en": "",
+            "ru": "Туркменгала",
+            "tm": "Türkmengala"
+          },
+          "lft": 191,
+          "rght": 192,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1445802611,
+          "name": {
+            "en": "",
+            "ru": "Огуз хан",
+            "tm": "Oguz han"
+          },
+          "lft": 193,
+          "rght": 194,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1445802682,
+          "name": {
+            "en": "",
+            "ru": "Шатлык",
+            "tm": "Şatlyk"
+          },
+          "lft": 195,
+          "rght": 196,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1501,
+          "name": {
+            "en": "",
+            "ru": "Байрамали",
+            "tm": "Baýramaly"
+          },
+          "lft": 197,
+          "rght": 198,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1818293560,
+          "name": {
+            "en": "",
+            "ru": "Векильбазар",
+            "tm": "Wekilbazar"
+          },
+          "lft": 199,
+          "rght": 200,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1968771078,
+          "name": {
+            "en": "",
+            "ru": "Каракумский этрап",
+            "tm": "Garagum etraby"
+          },
+          "lft": 201,
+          "rght": 202,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445801702
+        },
+        {
+          "id": 1445212926,
+          "name": {
+            "en": "",
+            "ru": "Лебапский велаят",
+            "tm": "Lebap welaýaty"
+          },
+          "lft": 204,
+          "rght": 235,
+          "tree_id": 7,
+          "level": 1,
+          "parent": 5
+        },
+        {
+          "id": 1445817204,
+          "name": {
+            "en": "",
+            "ru": "Дарганата",
+            "tm": "Darganata"
+          },
+          "lft": 205,
+          "rght": 206,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445817363,
+          "name": {
+            "en": "",
+            "ru": "Газаджак",
+            "tm": "Gazojak"
+          },
+          "lft": 207,
+          "rght": 208,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445817466,
+          "name": {
+            "en": "",
+            "ru": "Дянев",
+            "tm": "Dänew"
+          },
+          "lft": 209,
+          "rght": 210,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1497,
+          "name": {
+            "en": "",
+            "ru": "Туркменабат",
+            "tm": "Türkmenabat"
+          },
+          "lft": 211,
+          "rght": 212,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445817569,
+          "name": {
+            "en": "",
+            "ru": "Гарабекевюл",
+            "tm": "Garabekewül"
+          },
+          "lft": 213,
+          "rght": 214,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445817640,
+          "name": {
+            "en": "",
+            "ru": "Достлук",
+            "tm": "Dostluk"
+          },
+          "lft": 215,
+          "rght": 216,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445817793,
+          "name": {
+            "en": "",
+            "ru": "Ходжамбаз",
+            "tm": "Hojambaz"
+          },
+          "lft": 217,
+          "rght": 218,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445817950,
+          "name": {
+            "en": "",
+            "ru": "Койтендаг",
+            "tm": "Köýtendag"
+          },
+          "lft": 219,
+          "rght": 220,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445818119,
+          "name": {
+            "en": "",
+            "ru": "Магданлы",
+            "tm": "Magdanly"
+          },
+          "lft": 221,
+          "rght": 222,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1502,
+          "name": {
+            "en": "",
+            "ru": "Керки",
+            "tm": "Kerki"
+          },
+          "lft": 223,
+          "rght": 224,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445818170,
+          "name": {
+            "en": "",
+            "ru": "Сакар",
+            "tm": "Sakar"
+          },
+          "lft": 225,
+          "rght": 226,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445818229,
+          "name": {
+            "en": "",
+            "ru": "Саят",
+            "tm": "Saýat"
+          },
+          "lft": 227,
+          "rght": 228,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1445818326,
+          "name": {
+            "en": "",
+            "ru": "Сейди",
+            "tm": "Seýdi"
+          },
+          "lft": 229,
+          "rght": 230,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1446675477,
+          "name": {
+            "en": "",
+            "ru": "Чарджоу",
+            "tm": "Çärjew"
+          },
+          "lft": 231,
+          "rght": 232,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1452614257,
+          "name": {
+            "en": "",
+            "ru": "Халач",
+            "tm": "Halaç"
+          },
+          "lft": 233,
+          "rght": 234,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1445212926
+        },
+        {
+          "id": 1446389066,
+          "name": {
+            "en": "",
+            "ru": "Дашогузский велаят",
+            "tm": "Daşoguz welaýaty"
+          },
+          "lft": 236,
+          "rght": 257,
+          "tree_id": 7,
+          "level": 1,
+          "parent": 5
+        },
+        {
+          "id": 1446388604,
+          "name": {
+            "en": "",
+            "ru": "Акдепе",
+            "tm": "Akdepe"
+          },
+          "lft": 237,
+          "rght": 238,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        },
+        {
+          "id": 1446388738,
+          "name": {
+            "en": "",
+            "ru": "Гурбансолтан Едже",
+            "tm": "Gurbansoltan Eje"
+          },
+          "lft": 239,
+          "rght": 240,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        },
+        {
+          "id": 1446388813,
+          "name": {
+            "en": "",
+            "ru": "Болдумсаз",
+            "tm": "Boldumsaz"
+          },
+          "lft": 241,
+          "rght": 242,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        },
+        {
+          "id": 1498,
+          "name": {
+            "en": "",
+            "ru": "Дашогуз",
+            "tm": "Daşoguz"
+          },
+          "lft": 243,
+          "rght": 244,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        },
+        {
+          "id": 1446388869,
+          "name": {
+            "en": "",
+            "ru": "Губадаг",
+            "tm": "Gubadag"
+          },
+          "lft": 245,
+          "rght": 246,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        },
+        {
+          "id": 1446388961,
+          "name": {
+            "en": "",
+            "ru": "Гороглы (Тагта)",
+            "tm": "Görogly (Tagta)"
+          },
+          "lft": 247,
+          "rght": 248,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        },
+        {
+          "id": 1446945272,
+          "name": {
+            "en": "",
+            "ru": "етр. Туркменбаши",
+            "tm": "Türkmenbaşy etr."
+          },
+          "lft": 249,
+          "rght": 250,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        },
+        {
+          "id": 1824919372,
+          "name": {
+            "en": "",
+            "ru": "Рухубелентский этрап",
+            "tm": "Ruhubelent etraby"
+          },
+          "lft": 251,
+          "rght": 252,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        },
+        {
+          "id": 328785339,
+          "name": {
+            "en": "",
+            "ru": "Кёнеургенч",
+            "tm": "Köneürgenç"
+          },
+          "lft": 253,
+          "rght": 254,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        },
+        {
+          "id": 1449131764,
+          "name": {
+            "en": "",
+            "ru": "Шабатский этрап",
+            "tm": "Şabat etr."
+          },
+          "lft": 255,
+          "rght": 256,
+          "tree_id": 7,
+          "level": 2,
+          "parent": 1446389066
+        }
+      ]
+  }
